@@ -1,0 +1,5 @@
+ACCOUNT_SID=AC
+AUTH_TOKEN=
+
+# SIP Domain of the PBX configured in SIP Domains
+SIP_DOMAIN=
